@@ -31,7 +31,7 @@ unsigned char dia, mes, ano, hora, minuto, segundo;
 unsigned char temp_LM[5], tecla,  timeout=0;
 unsigned int contador_5s = 500;
 unsigned char setpoint, setpoint_read, hr_on, hr_off, min_on, min_off;
-uint8_t aux_tela = 0, aux_5seg = 0; temperatura;
+uint8_t aux_tela = 0, aux_5seg = 0, temperatura;
 int mins_start, mins_stop, mins_now;
 
 
